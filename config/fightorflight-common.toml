@@ -1,0 +1,25 @@
+
+["Configs for Cobblemon Fight or Flight"]
+	#Do more aggressive Pokemon fight back when provoked?
+	do_pokemon_fight_back = true
+	#Do especially aggressive Pokemon attack unprovoked?
+	do_pokemon_attack_unprovoked = true
+	#Do aggro Pokemon wait for their target to finish any battles before attacking?
+	do_pokemon_attack_in_battle = false
+	#Do player Pokemon defend their owners when they attack or are attacked by other mobs?
+	do_pokemon_defend_owners = true
+	#Can player Pokemon target other players? (EXPERIMENTAL)
+	do_player_pokemon_attack_other_players = false
+	#Can player Pokemon target other player's Pokemon? (EXPERIMENTAL)
+	do_player_pokemon_attack_other_player_pokemon = false
+	#When a player owned Pokemon hurts or is hurt by a wild pokemon, should a pokemon battle be started?
+	force_wild_battle_on_pokemon_hurt = false
+	#When a player owned Pokemon hurts or is hurt by another player's pokemon, should a pokemon battle be started? (EXPERIMENTAL)
+	force_player_battle_on_pokemon_hurt = false
+	#The minimum level a Pokemon needs to be to fight back when provoked.
+	#Range: 0 ~ 100
+	min_fight_back_level = 5
+	#The minimum level a Pokemon needs to be to attack unprovoked.
+	#Range: 0 ~ 100
+	min_attack_unprovoked_level = 10
+

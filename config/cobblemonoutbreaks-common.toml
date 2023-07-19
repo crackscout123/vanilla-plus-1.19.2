@@ -1,0 +1,20 @@
+#cobblemonoutbreaks Config
+#Turns the portal sound on or off when a pokemon is spawned in an outbreak
+outbreak_portal_spawn_sound = true
+#Time it takes for an outbreak to spawn around the player (in ticks 36000 being 30 minutes)
+outbreak_spawn_timer = 36000
+#Amount of outbreaks that spawn when the timer runs out, 0 spawns nothing
+outbreak_spawn_count = 3
+#Whether or not a message should be sent when an outbreak spawns, finishes and gets removed
+send_outbreak_portal_spawn_message = true
+#Turn particles on or off for the outbreak portal, this will make it easier to find them
+spawn_portal_particles = false
+#Whether or not the outbreaks should spawn in predetermined biomes
+biome_specific_spawns = false
+#A message that tells you what biome an outbreak is currently spawning in with their pokemon and if you expected this
+biome_specific_spawns_debug = false
+#Minumum spawn radius the portal can spawn around the player, minumum is 16, maximum is 48
+min_spawn_radius = 32
+#Maximum spawn radius the portal can spawn around the player, minumum is 49 maximum is 112
+max_spaw_radius = 64
+

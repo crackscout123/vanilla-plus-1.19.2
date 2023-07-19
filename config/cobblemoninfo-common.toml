@@ -1,0 +1,31 @@
+
+[jade]
+	#Modify the Pokemon tooltip.
+	modifyPokemonTooltip = true
+
+	[jade.pokemon]
+		#Allowed Values: HIDE, SNEAK, SHOW
+		showPokemonGender = "SHOW"
+		#Allowed Values: HIDE, SNEAK, SHOW
+		showPokemonHealth = "SHOW"
+		#Allowed Values: HIDE, SNEAK, SHOW
+		showPokemonTrainer = "SHOW"
+		#Allowed Values: HIDE, SNEAK, SHOW
+		showPokemonTypes = "SHOW"
+		#Allowed Values: HIDE, SNEAK, SHOW
+		showPokemonRewardEvs = "SHOW"
+		#Allowed Values: HIDE, SNEAK, SHOW
+		showPokemonNature = "SHOW"
+		#Allowed Values: HIDE, SNEAK, SHOW
+		showPokemonAbility = "SHOW"
+		#Allowed Values: HIDE, SNEAK, SHOW
+		showPokemonIvs = "SHOW"
+		#Allowed Values: HIDE, SNEAK, SHOW
+		showPokemonEvs = "SHOW"
+		#Allowed Values: HIDE, SNEAK, SHOW
+		showPokemonDexEntry = "SNEAK"
+
+	[jade.misc]
+		#Allowed Values: HIDE, SNEAK, SHOW
+		showHealerEnergy = "SHOW"
+

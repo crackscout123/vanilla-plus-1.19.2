@@ -1,0 +1,36 @@
+
+#General Settings
+[general]
+
+	[general.general]
+		#Enable staring at crops, saplings and alike to make them grow!
+		enableApplyBoneMeal = true
+		#Enable staring Animals to make them fall in love!
+		enableFallInLove = true
+		#Enable staring baby animals to make them grow up!
+		enableGrowUp = true
+		#Enable staring at cake, because it isn't a lie!
+		enableRegrowCake = true
+		#Enable staring at sheared sheep to make them regrow their wool!
+		enableRegrowWool = true
+
+#Timing Settings
+[timing]
+
+	[timing.timing]
+		#The amount of ticks before we start trigger the actions
+		#Range: > 1
+		ticksDelay = 20
+		#The amount of ticks between each action
+		#Range: > 1
+		ticksBetween = 10
+
+#Filter Settings
+[filter]
+
+	[filter.filter]
+		#If the filterList is a block or allow list
+		isBlockList = true
+		#The block or allow list items
+		blockOrAllowList = ["minecraft:grass_block", "minecraft:grass", "minecraft:fern", "minecraft:netherrack", "minecraft:warped_nylium", "minecraft:crimson_nylium"]
+
