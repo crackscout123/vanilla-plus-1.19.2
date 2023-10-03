@@ -8,3 +8,15 @@ XaeroWorldMap/Multiplayer_crackscout.de/null/mw$default/cache_1/-2_0.xwmc
 *.gz
 *.log
 usercache.json
+*.outdated
+*.zip
+XaeroWorldMap/Multiplayer_crackscout.de/null/dimension_config.txt
+XaeroWaypoints/Multiplayer_crackscout.de/dim%0/mw$default_1.txt
+usercache.json
+logs/latest.log
+logs/debug.log
+*.gz
+crash-reports/crash-2023-07-24_20.07.13-client.txt
+crash-reports/crash-2023-07-24_20.05.42-client.txt
+crash-reports/crash-2023-07-24_20.04.09-client.txt
+config/xaerominimap_entities.json
